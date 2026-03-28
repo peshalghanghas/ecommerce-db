@@ -1,18 +1,17 @@
-# E-Commerce Database
+# E-Commerce Database System
 
-This project is a relational database design for a simplified e-commerce platform.
+## Overview
+A relational database design for an e-commerce platform supporting
+users, products, orders, inventory management, payments, and reviews.
 
-## Planned Features
-- Users
-- Products
-- Orders
-- Inventory tracking
-- Payments
-- Reviews
+## Technologies
+- SQL
+- PostgreSQL
+- Relational Database Design
 
-## Project Structure
+## Features
+- Normalized database schema
+- Referential integrity with foreign keys
+- Indexing for performance
+- Analytical queries for business insights
 
-schema.sql – database schema  
-sample_data.sql – sample records  
-queries.sql – useful SQL queries  
-indexes.sql – database indexes
